@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import './components/Players/Player.css';
 import Allplayer from './playerData/playerDetails.json'
